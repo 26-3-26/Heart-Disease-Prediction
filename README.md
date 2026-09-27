@@ -39,7 +39,7 @@ This project frames the task as a binary classification problem:
 | Logistic Regression | 85.3% | 87.0% |
 | **Random Forest** | **87.5%** | **89.2%** |
 
-![Model comparison: Random Forest vs Logistic Regression on Accuracy and F1](assets/results-chart.png)
+![Model comparison](results-chart.png)
 
 ### Key Insights
 * **Best Performing Model:** Random Forest outperformed Logistic Regression across both metrics (**87.5% Accuracy** and **89.2% F1 Score**), demonstrating the value of modeling non-linear relationships among clinical features.
